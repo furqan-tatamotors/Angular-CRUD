@@ -7,8 +7,8 @@ import { AddUserComponent } from './Component/add-user/add-user.component';
 import {HttpClientModule} from '@angular/common/http'
 import { UsersService } from './users.service';
 import { ReactiveFormsModule } from '@angular/forms';
-import { LoginComponent } from './Component/login/login.component';
-import { SignupComponent } from './Component/signup/signup.component';
+// import { LoginComponent } from './Component/login/login.component';
+// import { SignupComponent } from './Component/signup/signup.component';
 
 @NgModule({
   declarations: [
